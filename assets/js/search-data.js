@@ -429,6 +429,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-początek-konfiguracji-strony",
+          title: 'Początek konfiguracji strony.',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -506,13 +509,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Adam-Kamos/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
