@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Początek konfiguracji strony.
+Początek funkcjonowania strony
