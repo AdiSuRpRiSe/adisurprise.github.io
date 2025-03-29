@@ -58,8 +58,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-biblioteczka",
+              title: "Biblioteczka",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -413,16 +413,16 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-trawers",
+      },{id: "books-deniwelacja",
+          title: 'Deniwelacja',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_deniwelacja/";
+            },},{id: "books-trawers",
           title: 'Trawers',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mroz_trawers/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
