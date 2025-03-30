@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-biblioteczka",
-          title: "Biblioteczka",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
@@ -57,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-biblioteczka",
+          title: "Biblioteczka",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -409,6 +409,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mroz_trawers/";
+            },},{id: "books-bez-ściemy-moja-niesamowita-dekada-w-formule-1",
+          title: 'Bez ściemy. Moja niesamowita dekada w Formule 1',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/steiner_bez_sciemy/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
