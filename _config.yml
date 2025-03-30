@@ -229,6 +229,14 @@ defaults:
     values:
       sitemap: false
 
+# default published attribute for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      published: true
+
 sass:
   style: compressed
 
