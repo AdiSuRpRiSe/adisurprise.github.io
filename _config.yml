@@ -228,9 +228,6 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-
-# default published attribute for posts
-defaults:
   - scope:
       path: ""
       type: "posts"
