@@ -3,12 +3,12 @@ layout: book-review
 title: Trawers
 author: Remigiusz Mróz
 cover: assets/img/book_covers/mroz_trawers.jpg
-olid: OL27942761M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 8380751026 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: krymiał sensacja thriller
 tags: Mróz Forst
 buy_link: https://lubimyczytac.pl/ksiazka/296791/trawers
-started: 
+started: 2025-03
 finished: 2025-03-29
 released: 2016
 stars: 

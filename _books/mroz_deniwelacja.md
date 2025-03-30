@@ -3,8 +3,8 @@ layout: book-review
 title: Deniwelacja
 author: Remigiusz Mróz
 cover: assets/img/book_covers/mroz_deniwelacja.jpg
-olid: OL27942761M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 8380751026 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: krymiał sensacja thriller
 tags: Mróz Forst
 buy_link: https://lubimyczytac.pl/ksiazka/4464995/deniwelacja
