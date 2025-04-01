@@ -8,12 +8,12 @@ isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: biografia autobiografia pamiętnik
 tags: F1
 buy_link: https://lubimyczytac.pl/ksiazka/5134780/bez-sciemy-moja-niesamowita-dekada-w-formule-1
-started: 
+started: 2025-03-31
 finished: 
 released: 2024
 stars: 
 goodreads_review: 
-status: Queued
+status: Reading
 ---
 
 10 lat budowania zespołu Haas F1. Günther Steiner powraca z nową książką!

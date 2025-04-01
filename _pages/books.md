@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Biblioteczka
+title: Książki
 permalink: /books/
 nav: true
 nav_order: 7
@@ -12,4 +12,4 @@ collection: books
 >
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
-## Moja biblioteczka
+## Moja biblioteka

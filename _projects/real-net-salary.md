@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kalkulator realnych zarobkoów
+title: Kalkulator realnych zarobków
 description: Prosty kalkulator uwzględniający wpływ nadgodzin oraz dojazdu w kalkulacji zarobków
 img: assets/img/real-net-salary.png
 redirect: https://adisurprise.github.io/real-net-salary/

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Narzędzia
-description: Materials for courses you taught. Replace this text with your description.
+description: Zbiór polecanych programów oraz narzędzi
 nav: false
 nav_order: 6
 ---
