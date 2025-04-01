@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projekty",
           title: "Projekty",
-          description: "Mniejsze i większe projekty.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -37,32 +37,64 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-biblioteczka",
-          title: "Biblioteczka",
+        },{id: "nav-książki",
+          title: "Książki",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-deniwelacja",
+        },{id: "books-berdo",
+          title: 'Berdo',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_berdo/";
+            },},{id: "books-deniwelacja",
           title: 'Deniwelacja',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mroz_deniwelacja/";
+            },},{id: "books-przepaść",
+          title: 'Przepaść',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_ekstremista/";
+            },},{id: "books-halny",
+          title: 'Halny',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_halny/";
+            },},{id: "books-kabalista",
+          title: 'Kabalista',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_kabalista/";
+            },},{id: "books-przepaść",
+          title: 'Przepaść',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_przepasc/";
             },},{id: "books-trawers",
           title: 'Trawers',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mroz_trawers/";
+            },},{id: "books-widmo-brockenu",
+          title: 'Widmo Brockenu',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_widmo/";
+            },},{id: "books-zerwa",
+          title: 'Zerwa',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mroz_zerwa/";
             },},{id: "books-bez-ściemy-moja-niesamowita-dekada-w-formule-1",
           title: 'Bez ściemy. Moja niesamowita dekada w Formule 1',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/steiner_bez_sciemy/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
@@ -118,8 +150,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-kalkulator-realnych-zarobkoów",
-          title: 'Kalkulator realnych zarobkoów',
+            },},{id: "projects-kalkulator-realnych-zarobków",
+          title: 'Kalkulator realnych zarobków',
           description: "Prosty kalkulator uwzględniający wpływ nadgodzin oraz dojazdu w kalkulacji zarobków",
           section: "Projects",handler: () => {
               window.location.href = "/projects/real-net-salary/";
